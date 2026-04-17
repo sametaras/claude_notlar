@@ -2,11 +2,11 @@
 
 Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı için hazırlanmış kapsamlı Türkçe çalışma materyali.
 
-> ✍️ **Samet Aras** tarafından, [bazenda.com](https://bazenda.com)'u Claude Code ile public'e açan projeden sonra, sertifika hazırlığı sürecinde tutulan ders notları. Herkesin faydalanabilmesi için açık.
+> **Samet Aras** tarafından, [bazenda.com](https://bazenda.com)'u Claude Code ile public'e açan projeden sonra, sertifika hazırlığı sürecinde tutulan ders notları. Herkesin faydalanabilmesi için açık.
 
 ---
 
-## 📚 İçerik
+## İçerik
 
 | Dosya | Konu |
 |---|---|
@@ -24,14 +24,14 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 ---
 
-## 🎯 Kimin İçin?
+## Kimin İçin?
 - Claude Agent SDK, Claude Code, Claude API veya MCP ile **6+ aydır** prodüksiyon uygulaması geliştiriyorsan.
 - **Claude Certified Architect – Foundations** sınavına hazırlanıyorsan.
 - LLM-based ajanik mimariyi Türkçe kaynakla pekiştirmek istiyorsan.
 
 ---
 
-## 🧭 Nereden Başlamalı?
+## Nereden Başlamalı?
 
 1. Önce [`00-sinav-genel-bakis.md`](00-sinav-genel-bakis.md) ile sınav haritasını çıkar.
 2. Domain sırayla `01 → 05`.
@@ -43,7 +43,7 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 ---
 
-## 📐 Sınav Özeti (Hızlı Referans)
+## Sınav Özeti (Hızlı Referans)
 
 **Format:** Çoktan seçmeli, 1 doğru + 3 distractor.
 **Puan:** 100–1000 scaled score; geçme **720**.
@@ -58,7 +58,7 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 ---
 
-## 🔑 Sınavın 3 Altın Kuralı
+## Sınavın 3 Altın Kuralı
 
 1. **Deterministik vs probabilistik:** Kritik compliance → hook/prerequisite/schema. Yumuşak yönlendirme → prompt.
 2. **Root cause > semptom:** Distractor'ların çoğu semptom tedavisi önerir.
@@ -66,7 +66,7 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 ---
 
-## 📬 Katkı ve Geri Bildirim
+## Katkı ve Geri Bildirim
 
 Bu notlar canlı bir doküman. Hatalı bir şey gördüysen veya eklemek istediğin bir şey varsa issue aç veya PR gönder.
 
@@ -74,7 +74,7 @@ Sınav değerlendirmesi Feb 10 2025 Version 0.1 exam guide baz alınarak hazırl
 
 ---
 
-## ⚖️ Yasal
+## Yasal
 
 Bu repo **üçüncü taraf** bir çalışma materyalidir. Anthropic, PBC veya Claude ile resmi bir bağlantısı **yoktur**. Sınav ücreti, kayıt ve resmi dokümantasyon için Anthropic resmi kanallarını kullan.
 
@@ -82,10 +82,10 @@ Bu repo'daki özetler kamuya açık Anthropic exam guide dokümanı kapsamında 
 
 ---
 
-## 👤 Yazar
+## Yazar
 
 **Samet Aras**
 - [bazenda.com](https://bazenda.com) — Claude Code ile geliştirilip public'e açılan proje
 - LinkedIn üzerinden sertifikasyon sürecini paylaşıyor
 
-Çalışma notları açık kaynak; faydalı bulursan **star** ver, paylaş. Başarılar. 🎯
+Çalışma notları açık kaynak; faydalı bulursan **star** ver, paylaş. Başarılar.
