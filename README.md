@@ -10,17 +10,17 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 | Dosya | Konu |
 |---|---|
-| [`egitim/00-sinav-genel-bakis.md`](00-sinav-genel-bakis.md) | Sınav formatı, ağırlıklar, senaryo yapısı, kapsam dışı konular |
-| [`egitim/01-domain1-agentic.md`](01-domain1-agentic.md) | **Domain 1** — Agentic Architecture & Orchestration (%27) |
-| [`egitim/02-domain2-tool-mcp.md`](02-domain2-tool-mcp.md) | **Domain 2** — Tool Design & MCP Integration (%18) |
-| [`egitim/03-domain3-claude-code.md`](03-domain3-claude-code.md) | **Domain 3** — Claude Code Configuration & Workflows (%20) |
-| [`egitim/04-domain4-prompt-structured.md`](04-domain4-prompt-structured.md) | **Domain 4** — Prompt Engineering & Structured Output (%20) |
-| [`egitim/05-domain5-context-reliability.md`](05-domain5-context-reliability.md) | **Domain 5** — Context Management & Reliability (%15) |
-| [`egitim/06-senaryolar.md`](06-senaryolar.md) | 6 resmi senaryonun detaylı analizi |
-| [`egitim/07-ornek-sorular-analizi.md`](07-ornek-sorular-analizi.md) | 12 resmi örnek sorunun çözüm mantığı |
-| [`egitim/08-tuzaklar-ve-antipatterns.md`](08-tuzaklar-ve-antipatterns.md) | 25 klasik sınav tuzağı ve anti-pattern |
-| [`egitim/09-hazirlik-plani.md`](09-hazirlik-plani.md) | 4 haftalık günlük hazırlık planı |
-| [`egitim/10-pratik-test.md`](10-pratik-test.md) | 25 soruluk pratik sınav + cevap anahtarı |
+| [`00-sinav-genel-bakis.md`](00-sinav-genel-bakis.md) | Sınav formatı, ağırlıklar, senaryo yapısı, kapsam dışı konular |
+| [`01-domain1-agentic.md`](01-domain1-agentic.md) | **Domain 1** — Agentic Architecture & Orchestration (%27) |
+| [`02-domain2-tool-mcp.md`](02-domain2-tool-mcp.md) | **Domain 2** — Tool Design & MCP Integration (%18) |
+| [`03-domain3-claude-code.md`](03-domain3-claude-code.md) | **Domain 3** — Claude Code Configuration & Workflows (%20) |
+| [`04-domain4-prompt-structured.md`](04-domain4-prompt-structured.md) | **Domain 4** — Prompt Engineering & Structured Output (%20) |
+| [`05-domain5-context-reliability.md`](05-domain5-context-reliability.md) | **Domain 5** — Context Management & Reliability (%15) |
+| [`06-senaryolar.md`](06-senaryolar.md) | 6 resmi senaryonun detaylı analizi |
+| [`07-ornek-sorular-analizi.md`](07-ornek-sorular-analizi.md) | 12 resmi örnek sorunun çözüm mantığı |
+| [`08-tuzaklar-ve-antipatterns.md`](08-tuzaklar-ve-antipatterns.md) | 25 klasik sınav tuzağı ve anti-pattern |
+| [`09-hazirlik-plani.md`](09-hazirlik-plani.md) | 4 haftalık günlük hazırlık planı |
+| [`10-pratik-test.md`](10-pratik-test.md) | 25 soruluk pratik sınav + cevap anahtarı |
 
 ---
 
