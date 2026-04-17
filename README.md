@@ -10,17 +10,17 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 | Dosya | Konu |
 |---|---|
-| [`egitim/00-sinav-genel-bakis.md`](egitim/00-sinav-genel-bakis.md) | Sınav formatı, ağırlıklar, senaryo yapısı, kapsam dışı konular |
-| [`egitim/01-domain1-agentic.md`](egitim/01-domain1-agentic.md) | **Domain 1** — Agentic Architecture & Orchestration (%27) |
-| [`egitim/02-domain2-tool-mcp.md`](egitim/02-domain2-tool-mcp.md) | **Domain 2** — Tool Design & MCP Integration (%18) |
-| [`egitim/03-domain3-claude-code.md`](egitim/03-domain3-claude-code.md) | **Domain 3** — Claude Code Configuration & Workflows (%20) |
-| [`egitim/04-domain4-prompt-structured.md`](egitim/04-domain4-prompt-structured.md) | **Domain 4** — Prompt Engineering & Structured Output (%20) |
-| [`egitim/05-domain5-context-reliability.md`](egitim/05-domain5-context-reliability.md) | **Domain 5** — Context Management & Reliability (%15) |
-| [`egitim/06-senaryolar.md`](egitim/06-senaryolar.md) | 6 resmi senaryonun detaylı analizi |
-| [`egitim/07-ornek-sorular-analizi.md`](egitim/07-ornek-sorular-analizi.md) | 12 resmi örnek sorunun çözüm mantığı |
-| [`egitim/08-tuzaklar-ve-antipatterns.md`](egitim/08-tuzaklar-ve-antipatterns.md) | 25 klasik sınav tuzağı ve anti-pattern |
-| [`egitim/09-hazirlik-plani.md`](egitim/09-hazirlik-plani.md) | 4 haftalık günlük hazırlık planı |
-| [`egitim/10-pratik-test.md`](egitim/10-pratik-test.md) | 25 soruluk pratik sınav + cevap anahtarı |
+| [`egitim/00-sinav-genel-bakis.md`](00-sinav-genel-bakis.md) | Sınav formatı, ağırlıklar, senaryo yapısı, kapsam dışı konular |
+| [`egitim/01-domain1-agentic.md`](01-domain1-agentic.md) | **Domain 1** — Agentic Architecture & Orchestration (%27) |
+| [`egitim/02-domain2-tool-mcp.md`](02-domain2-tool-mcp.md) | **Domain 2** — Tool Design & MCP Integration (%18) |
+| [`egitim/03-domain3-claude-code.md`](03-domain3-claude-code.md) | **Domain 3** — Claude Code Configuration & Workflows (%20) |
+| [`egitim/04-domain4-prompt-structured.md`](04-domain4-prompt-structured.md) | **Domain 4** — Prompt Engineering & Structured Output (%20) |
+| [`egitim/05-domain5-context-reliability.md`](05-domain5-context-reliability.md) | **Domain 5** — Context Management & Reliability (%15) |
+| [`egitim/06-senaryolar.md`](06-senaryolar.md) | 6 resmi senaryonun detaylı analizi |
+| [`egitim/07-ornek-sorular-analizi.md`](07-ornek-sorular-analizi.md) | 12 resmi örnek sorunun çözüm mantığı |
+| [`egitim/08-tuzaklar-ve-antipatterns.md`](08-tuzaklar-ve-antipatterns.md) | 25 klasik sınav tuzağı ve anti-pattern |
+| [`egitim/09-hazirlik-plani.md`](09-hazirlik-plani.md) | 4 haftalık günlük hazırlık planı |
+| [`egitim/10-pratik-test.md`](10-pratik-test.md) | 25 soruluk pratik sınav + cevap anahtarı |
 
 ---
 
@@ -33,13 +33,13 @@ Anthropic'in **Claude Certified Architect – Foundations** sertifika sınavı i
 
 ## 🧭 Nereden Başlamalı?
 
-1. Önce [`00-sinav-genel-bakis.md`](egitim/00-sinav-genel-bakis.md) ile sınav haritasını çıkar.
+1. Önce [`00-sinav-genel-bakis.md`](00-sinav-genel-bakis.md) ile sınav haritasını çıkar.
 2. Domain sırayla `01 → 05`.
-3. [`06-senaryolar.md`](egitim/06-senaryolar.md) ile senaryoya özgü tuzakları öğren.
-4. [`07-ornek-sorular-analizi.md`](egitim/07-ornek-sorular-analizi.md) ile her distractor'ın **neden** yanlış olduğunu öğren.
-5. [`08-tuzaklar-ve-antipatterns.md`](egitim/08-tuzaklar-ve-antipatterns.md) — 25 klasik hatayı içselleştir.
-6. Son hafta [`10-pratik-test.md`](egitim/10-pratik-test.md) ile zaman tutarak dene.
-7. Zaman planı için [`09-hazirlik-plani.md`](egitim/09-hazirlik-plani.md).
+3. [`06-senaryolar.md`](06-senaryolar.md) ile senaryoya özgü tuzakları öğren.
+4. [`07-ornek-sorular-analizi.md`](07-ornek-sorular-analizi.md) ile her distractor'ın **neden** yanlış olduğunu öğren.
+5. [`08-tuzaklar-ve-antipatterns.md`](08-tuzaklar-ve-antipatterns.md) — 25 klasik hatayı içselleştir.
+6. Son hafta [`10-pratik-test.md`](10-pratik-test.md) ile zaman tutarak dene.
+7. Zaman planı için [`09-hazirlik-plani.md`](09-hazirlik-plani.md).
 
 ---
 
